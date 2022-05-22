@@ -9,7 +9,21 @@ We have been asked to help Amazing Prim create an automated pipeline that takes 
 * Deliverable #3: Extract and Transform the Kaggle data
 * Deliverable #4: Create the Movie Database (This one is incomplete as I kept getting an error when trying to connect)
 
-##Deliverable Breakdwown
+## Deliverable Breakdwown
 * Deliverable #1:
 
-  ![Creates path](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Create%20Path_Set%20Variables%20(D1).png)
+  * Creates Path
+        
+        ![Creates path](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Create%20Path_Set%20Variables%20(D1).png)
+  
+  * Wiki Movie Dataframe
+      
+        ![Wiki_DF](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Wiki_movies_df%20(D1).png)
+  
+  * Kaggle Metadata
+  
+        ![Kaggle DF](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Kaggle_meta%20(D1).png)
+   
+  * Ratings
+  
+        ![Ratings](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Ratings%20(D1).png)
