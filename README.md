@@ -27,3 +27,13 @@ We have been asked to help Amazing Prim create an automated pipeline that takes 
    * Ratings
   
    ![Ratings](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Ratings%20(D1).png)
+
+* Deliverable #2: 
+
+  * Filter out TV Shows
+    ![Filter TV](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/FIlter%20out%20TV%20Shows%20(D2).png)
+    
+  * Implement try-except bloc to catch errors while extracting
+    ![try-except](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Try_Except%20(D2).png)
+  
+  * Wiki
