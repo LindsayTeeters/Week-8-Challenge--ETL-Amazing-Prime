@@ -45,6 +45,7 @@ We have been asked to help Amazing Prim create an automated pipeline that takes 
     ![Fill in Data](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Fill%20In%20Missing%20Kaggle%20(D3).png)
   
   * Movies DataFrame
+  
     ![Movies_DF](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Movies_DF%20(D3).png)
   
   * Movies Dataframe with Ratings
