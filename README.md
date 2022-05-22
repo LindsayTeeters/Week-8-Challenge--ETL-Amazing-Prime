@@ -18,7 +18,7 @@ We have been asked to help Amazing Prim create an automated pipeline that takes 
   
     * Wiki Movie Dataframe
       
-  ![Wiki_DF](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Wiki_movies_df%20(D1).png)
+   ![Wiki_DF](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Wiki_movies_df%20(D1).png)
   
    * Kaggle Metadata
   
@@ -36,4 +36,16 @@ We have been asked to help Amazing Prim create an automated pipeline that takes 
   * Implement try-except bloc to catch errors while extracting
     ![try-except](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Try_Except%20(D2).png)
   
-  * Wiki
+  * Wiki_Movies Dataframe filtered
+    ![wiki filtered](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Wiki_movies_df%20(D2).png)
+  
+* Deliverable #3:
+  
+  * Add in function to fill in missing Kaggle data.
+    ![Fill in Data](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Fill%20In%20Missing%20Kaggle%20(D3).png)
+  
+  * Movies DataFrame
+    ![Movies_DF](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Movies_DF%20(D3).png)
+  
+  * Movies Dataframe with Ratings
+    ![DF with Ratings](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Movies_w_Ratings%20(D3).png)
