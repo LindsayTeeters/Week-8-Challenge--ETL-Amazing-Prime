@@ -9,6 +9,16 @@ We have been asked to help Amazing Prim create an automated pipeline that takes 
 * Deliverable #3: Extract and Transform the Kaggle data
 * Deliverable #4: Create the Movie Database 
 
+## Resources
+* Provided data source files
+* Provided starter code files
+* Jupyter Notebook
+* pgAdmin 4
+* PostgreSQL 11
+* Python 4.12
+* Python Enviroment
+* VS Code
+
 ## Deliverable Breakdwown
 * Deliverable #1:
 
@@ -31,6 +41,7 @@ We have been asked to help Amazing Prim create an automated pipeline that takes 
 * Deliverable #2: 
 
   * Filter out TV Shows
+  
     ![Filter TV](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/FIlter%20out%20TV%20Shows%20(D2).png)
     
   * Implement try-except bloc to catch errors while extracting
@@ -50,3 +61,4 @@ We have been asked to help Amazing Prim create an automated pipeline that takes 
   
   * Movies Dataframe with Ratings
     ![DF with Ratings](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Movies_w_Ratings%20(D3).png)
+
