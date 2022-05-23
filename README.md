@@ -20,7 +20,7 @@ We have been asked to help Amazing Prim create an automated pipeline that takes 
 * VS Code
 
 ## Deliverable Breakdwown
-* Deliverable #1:
+* **Deliverable #1:**
 
   * Creates Path
         
@@ -38,7 +38,7 @@ We have been asked to help Amazing Prim create an automated pipeline that takes 
   
    ![Ratings](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Ratings%20(D1).png)
 
-* Deliverable #2: 
+* **Deliverable #2:** 
 
   * Filter out TV Shows
   
@@ -50,7 +50,7 @@ We have been asked to help Amazing Prim create an automated pipeline that takes 
   * Wiki_Movies Dataframe filtered
     ![wiki filtered](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Wiki_movies_df%20(D2).png)
   
-* Deliverable #3:
+* **Deliverable #3:**
   
   * Add in function to fill in missing Kaggle data.
     ![Fill in Data](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Fill%20In%20Missing%20Kaggle%20(D3).png)
@@ -62,3 +62,6 @@ We have been asked to help Amazing Prim create an automated pipeline that takes 
   * Movies Dataframe with Ratings
     ![DF with Ratings](https://github.com/LindsayTeeters/Week-8-Challenge--ETL-Amazing-Prime/blob/main/Resources/Movies_w_Ratings%20(D3).png)
 
+* Deliverable #4:
+
+  *
